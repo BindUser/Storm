@@ -43,9 +43,6 @@
     <ClInclude Include="Play_Footstep_Sound.hpp">
       <Filter>Header++</Filter>
     </ClInclude>
-    <ClInclude Include="Draw_Crosshair.hpp">
-      <Filter>Header++</Filter>
-    </ClInclude>
     <ClInclude Include="Interpolate.hpp">
       <Filter>Header++</Filter>
     </ClInclude>

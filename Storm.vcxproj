@@ -89,7 +89,6 @@
     <ClInclude Include="Send_Move.hpp" />
     <ClInclude Include="Spawn_Grenade.hpp" />
     <ClInclude Include="Run_Command.hpp" />
-    <ClInclude Include="Draw_Crosshair.hpp" />
     <ClInclude Include="Draw_Effect.hpp" />
     <ClInclude Include="Extended_Interface.hpp" />
     <ClInclude Include="Estimate_Velocity.hpp" />
